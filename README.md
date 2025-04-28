@@ -85,9 +85,6 @@ go run .
    - 邮箱: 1917413192@qq.com
    - GitHub Discussions: 用于讨论新功能
 
-## 示例截图
-
-![实验流程示意图](docs/experiment-flow.png)
 
 ## 自定义代码
 
