@@ -1,0 +1,24 @@
+# 临时文件
+*.r.md
+
+# 实验数据文件
+experiment_result.csv
+
+# 二进制文件
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE配置文件
+.vscode/
+.idea/
+*.iml
+
+# Go 环境
+bin/
+pkg/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db

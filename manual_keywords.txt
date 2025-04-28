@@ -1,0 +1,11 @@
+# 在此文件中每行写一个你想要手动查找的关键词
+California
+Summary
+Update
+Load
+Report
+Meeting
+Analysis
+Graph
+Chart
+Phillip K Allen
