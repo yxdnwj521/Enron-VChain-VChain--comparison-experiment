@@ -82,7 +82,7 @@ go run .
    - 更新相关文档
 
 3. **联系方式**
-   - 邮箱: your-email@example.com
+   - 邮箱: 1917413192@qq.com
    - GitHub Discussions: 用于讨论新功能
 
 ## 示例截图
